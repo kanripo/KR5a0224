@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:42:34.474218
+# -*- mode: mandoku-view -*-
 #+TITLE: 清微元降大法
-#+PROPERTY: DZID  DZ0223
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—513 二十五卷 洞真部方法類
+#+DATE: 2015-08-28 23:42:38
+#+PROPERTY:  LASTPB <PB KR5a0224_SJB_025-040273c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶<md:KR5a0224_HFL_025-025b>¶¶¶¶¶¶¶¶¶¶¶
+

@@ -1,185 +1,181 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:42:34.516369
+# -*- mode: mandoku-view -*-
 #+TITLE: 清微元降大法
-#+PROPERTY: DZID  DZ0223
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—513 二十五卷 洞真部方法類
+#+DATE: 2015-08-28 23:42:38
+#+PROPERTY:  LASTPB <PB KR5a0224_SJB_025-040273c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0224_SJB_002-040156b>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0224_HFL_001-011b>
 #+PROPERTY: JUAN 2
-#+PROPERTY: ID KR5a0224
-<pb:KR5a0224_HFL_002-001a>¶
+<md:KR5a0224_HFL_002-001a>¶<pb:KR5a0224_SJB_002-040156c><img:image/040156c_1.bmp><img:image/040156c_2.bmp><img:image/040156c_3.bmp><img:image/040156c_4.bmp><img:image/040156c_5.bmp><img:image/040156c_6.bmp><img:image/040156c_7.bmp><img:image/040156c_8.bmp><img:image/040156c_9.bmp><img:image/040156c_10.bmp><img:image/040156c_11.bmp><img:image/040156c_12.bmp><img:image/040156c_13.bmp><img:image/040156c_14.bmp><img:image/040156c_15.bmp><img:image/040156c_16.bmp><img:image/040156c_17.bmp><img:image/040156c_18.bmp><img:image/040156c_19.bmp><img:image/040156c_20.bmp><img:image/040156c_21.bmp><img:image/040156c_22.bmp><img:image/040156c_23.bmp>
 清微元降大法卷之二號二¶
 　玉京流泒¶
 　　　清微玉清¶
 元始上帝授妙玄經應運玉策錫玉晨道君¶
 劫中在大羅妙玄劫元寳臺清華妙元¶
 敷弘妙道保天長存¶
-　　　妙玄經¶
-¶
-　(玄)(玄)(道)(微)¶
-¶
-<pb:KR5a0224_HFL_002-001b>¶
-　(清厚自分)¶
-¶
-　(混混玄玄)¶
-¶
-　(道劫自存)¶
-¶
-　(炁炁運元)¶
-¶
-¶
-　(元自成)¶
-<pb:KR5a0224_HFL_002-002a>¶
-　右經在殿之廡西清玄玉英之館¶
+　　　妙玄經¶¶
+
+　(玄)(玄)(道)(微)¶¶<md:KR5a0224_HFL_002-001b>¶
+
+
+　(清厚自分)¶¶
+
+　(混混玄玄)¶¶
+
+　(道劫自存)¶¶
+
+　(炁炁運元)¶¶¶
+
+
+　(元自成)¶<md:KR5a0224_HFL_002-002a>¶
+<pb:KR5a0224_SJB_002-040157a>
+<img:image/040157a_1.bmp><img:image/040157a_2.bmp><img:image/040157a_3.bmp><img:image/040157a_4.bmp><img:image/040157a_5.bmp><img:image/040157a_6.bmp><img:image/040157a_7.bmp><img:image/040157a_8.bmp><img:image/040157a_9.bmp><img:image/040157a_10.bmp><img:image/040157a_11.bmp><img:image/040157a_12.bmp>　右經在殿之廡西清玄玉英之館¶
 元始雷霆下教清微應運玉策計一百二十¶
 字在天乃¶
 元始天王授道君此策有玉國之應策中所¶
 傳三字謹用流傳¶
-　(惟靜永)¶
-¶
-¶
+　(惟靜永)¶¶¶
+
+
 玉晨道君授玉式賜眞元妙化天帝¶
-　　　玉晨策¶
-<pb:KR5a0224_HFL_002-002b>¶
-¶
-¶
+　　　玉晨策¶<md:KR5a0224_HFL_002-002b>¶¶¶
+
+
+
 九天妙道眞運楊元君以大道運玄經授九¶
-天洞明許元君¶
-¶
-　　　大道運玄妙經¶
-¶
-　(大道玄運)¶
-¶
-¶
-　(妙炁混凝)¶
-<pb:KR5a0224_HFL_002-003a>¶
-¶
-　(開明不夜)¶
-¶
-　(萬劫自原)¶
-¶
-　(風霆流形)¶
-¶
-　(一氣相因)¶
-¶
-　(敷弘至靈)¶
-<pb:KR5a0224_HFL_002-003b>¶
-¶
-　(經始發旨)¶
-¶
-　(周遊九清)¶
-¶
+天洞明許元君¶¶
+
+　　　大道運玄妙經¶¶
+
+　(大道玄運)¶¶¶
+
+
+　(妙炁混凝)¶<md:KR5a0224_HFL_002-003a>¶¶
+<pb:KR5a0224_SJB_002-040157b>
+<img:image/040157b_1.bmp><img:image/040157b_2.bmp><img:image/040157b_3.bmp><img:image/040157b_4.bmp><img:image/040157b_5.bmp><img:image/040157b_6.bmp><img:image/040157b_7.bmp><img:image/040157b_8.bmp><img:image/040157b_9.bmp><img:image/040157b_10.bmp><img:image/040157b_11.bmp><img:image/040157b_12.bmp><img:image/040157b_13.bmp><img:image/040157b_14.bmp><img:image/040157b_15.bmp><img:image/040157b_16.bmp><img:image/040157b_17.bmp><img:image/040157b_18.bmp><img:image/040157b_19.bmp><img:image/040157b_20.bmp><img:image/040157b_21.bmp><img:image/040157b_22.bmp><img:image/040157b_23.bmp><img:image/040157b_24.bmp><img:image/040157b_25.bmp><img:image/040157b_26.bmp><img:image/040157b_27.bmp><img:image/040157b_28.bmp><img:image/040157b_29.bmp><img:image/040157b_30.bmp><img:image/040157b_31.bmp><img:image/040157b_32.bmp>
+　(開明不夜)¶¶
+
+　(萬劫自原)¶¶
+
+　(風霆流形)¶¶
+
+　(一氣相因)¶¶
+
+　(敷弘至靈)¶<md:KR5a0224_HFL_002-003b>¶¶
+
+
+　(經始發旨)¶¶
+
+　(周遊九清)¶¶
+
 許元君有元都玉梵之章授玉堂天山朱眞¶
 人¶
-　　　元都玉梵之章(梵炁結成/主張清濁)¶
-¶
-　(混成玄道)¶
-<pb:KR5a0224_HFL_002-004a>¶
-¶
-　(貫炁八方)¶
-¶
-　(策役萬神)¶
-¶
-　(風回劫會)¶
-¶
+　　　元都玉梵之章(梵炁結成/主張清濁)¶¶
+
+　(混成玄道)¶<md:KR5a0224_HFL_002-004a>¶¶
+<pb:KR5a0224_SJB_002-040157c>
+<img:image/040157c_1.bmp><img:image/040157c_2.bmp><img:image/040157c_3.bmp><img:image/040157c_4.bmp><img:image/040157c_5.bmp><img:image/040157c_6.bmp><img:image/040157c_7.bmp><img:image/040157c_8.bmp><img:image/040157c_9.bmp><img:image/040157c_10.bmp><img:image/040157c_11.bmp><img:image/040157c_12.bmp><img:image/040157c_13.bmp><img:image/040157c_14.bmp><img:image/040157c_15.bmp><img:image/040157c_16.bmp><img:image/040157c_17.bmp><img:image/040157c_18.bmp><img:image/040157c_19.bmp><img:image/040157c_20.bmp><img:image/040157c_21.bmp><img:image/040157c_22.bmp><img:image/040157c_23.bmp><img:image/040157c_24.bmp><img:image/040157c_25.bmp><img:image/040157c_26.bmp><img:image/040157c_27.bmp><img:image/040157c_28.bmp>
+　(貫炁八方)¶¶
+
+　(策役萬神)¶¶
+
+　(風回劫會)¶¶
+
 　(經世紛紛)¶
 　右檢萬神皆元始禁書此承楊元君授之¶
-　後留世襲之¶
-<pb:KR5a0224_HFL_002-004b>¶
+　後留世襲之¶<md:KR5a0224_HFL_002-004b>¶
+
 天山眞人後以雷光振元之章授太玄青惠¶
 昭化扶桑卜眞君¶
-　　　雷光振元之章¶
-¶
-　(氣自扶運)¶
-¶
-　(空同靈昌)¶
-¶
-　(歛束大梵)¶
-¶
-<pb:KR5a0224_HFL_002-005a>¶
-¶
-　(曠明太虚)¶
-¶
-　(妙斡霆電)¶
-¶
-　(育然清洙)¶
-¶
+　　　雷光振元之章¶¶
+
+　(氣自扶運)¶¶
+
+　(空同靈昌)¶¶
+
+　(歛束大梵)¶¶<md:KR5a0224_HFL_002-005a>¶¶
+
+<pb:KR5a0224_SJB_002-040158a>
+<img:image/040158a_1.bmp><img:image/040158a_2.bmp><img:image/040158a_3.bmp><img:image/040158a_4.bmp><img:image/040158a_5.bmp><img:image/040158a_6.bmp><img:image/040158a_7.bmp><img:image/040158a_8.bmp><img:image/040158a_9.bmp><img:image/040158a_10.bmp><img:image/040158a_11.bmp><img:image/040158a_12.bmp><img:image/040158a_13.bmp><img:image/040158a_14.bmp><img:image/040158a_15.bmp><img:image/040158a_16.bmp><img:image/040158a_17.bmp><img:image/040158a_18.bmp><img:image/040158a_19.bmp><img:image/040158a_20.bmp><img:image/040158a_21.bmp><img:image/040158a_22.bmp><img:image/040158a_23.bmp><img:image/040158a_24.bmp><img:image/040158a_25.bmp><img:image/040158a_26.bmp><img:image/040158a_27.bmp><img:image/040158a_28.bmp><img:image/040158a_29.bmp><img:image/040158a_30.bmp>
+　(曠明太虚)¶¶
+
+　(妙斡霆電)¶¶
+
+　(育然清洙)¶¶
+
 卜眞君以大道無量元光玉符授昭凝神耀¶
-保天道化廣元君¶
-¶
-<pb:KR5a0224_HFL_002-005b>¶
-　(皇變碧元)¶
-¶
-¶
+保天道化廣元君¶¶<md:KR5a0224_HFL_002-005b>¶
+
+　(皇變碧元)¶¶¶
+
+
 　(眞明)¶
 道化元君以玉英寳章付明清道華丘元君¶
-元君後以此章授泰明清惠師眞人¶
-¶
-　(原論總召)¶
-¶
-　(萬炁天昌)¶
-¶
-　(詔令太明)¶
-¶
-<pb:KR5a0224_HFL_002-006a>¶
-¶
+元君後以此章授泰明清惠師眞人¶¶
+
+　(原論總召)¶¶
+
+　(萬炁天昌)¶¶
+
+　(詔令太明)¶¶<md:KR5a0224_HFL_002-006a>¶¶
+
+<pb:KR5a0224_SJB_002-040158b>
+<img:image/040158b_1.bmp><img:image/040158b_2.bmp><img:image/040158b_3.bmp><img:image/040158b_4.bmp><img:image/040158b_5.bmp><img:image/040158b_6.bmp><img:image/040158b_7.bmp><img:image/040158b_8.bmp>
 　(流分玄章)¶
 　清微隱訣¶
 清微洞光寳衡紫華元和明道太一神景元¶
 　君王正宏滿月相鳯目一字眉披髮仗劔¶
 　朱履月孛狀居玄都太冲樓右紫輝宮闕¶
 　下¶
-　　　寳玄經(奏三清玉帝/后土下用拜)¶
-¶
-　(際)(玄)¶
-<pb:KR5a0224_HFL_002-006b>¶
-　　　元始朝命香符¶
-¶
-¶
+　　　寳玄經(奏三清玉帝/后土下用拜)¶¶
+
+　(際)(玄)¶<md:KR5a0224_HFL_002-006b>¶
+
+　　　元始朝命香符¶¶¶
+
+
 　右符謂三界朝謁奉元始命青帝賜香字¶
 　凡有急奏燒此香可達帝¶
-　　　元始集萬神香符¶
-¶
-¶
+　　　元始集萬神香符¶¶¶
+
+
 　右符道君命萬神昔元始錫此香道君用¶
-　之今師流泒用此集萬神¶
-<pb:KR5a0224_HFL_002-007a>¶
-　　　元始檄召雷霆香符¶
-¶
-　信(虚存/用同)¶
-¶
-　(晴/風)(龍/雲)(止/雷)(集/電)¶
-¶
-¶
-　(雪雹雨露)¶
-¶
-¶
-<pb:KR5a0224_HFL_002-007b>¶
-　　催催螟(百草霜書竹/片上埋及焚)¶
-¶
-　蝗土書(蛟/令)(虎/令)¶
-¶
+　之今師流泒用此集萬神¶<md:KR5a0224_HFL_002-007a>¶
+<pb:KR5a0224_SJB_002-040158c>
+<img:image/040158c_1.bmp><img:image/040158c_2.bmp><img:image/040158c_3.bmp><img:image/040158c_4.bmp><img:image/040158c_5.bmp><img:image/040158c_6.bmp><img:image/040158c_7.bmp><img:image/040158c_8.bmp><img:image/040158c_9.bmp><img:image/040158c_10.bmp><img:image/040158c_11.bmp><img:image/040158c_12.bmp><img:image/040158c_13.bmp><img:image/040158c_14.bmp><img:image/040158c_15.bmp><img:image/040158c_16.bmp><img:image/040158c_17.bmp><img:image/040158c_18.bmp><img:image/040158c_19.bmp><img:image/040158c_20.bmp><img:image/040158c_21.bmp><img:image/040158c_22.bmp><img:image/040158c_23.bmp><img:image/040158c_24.bmp><img:image/040158c_25.bmp><img:image/040158c_26.bmp><img:image/040158c_27.bmp><img:image/040158c_28.bmp><img:image/040158c_29.bmp>　　　元始檄召雷霆香符¶¶
+
+　信(虚存/用同)¶¶
+
+　(晴/風)(龍/雲)(止/雷)(集/電)¶¶¶
+
+
+　(雪雹雨露)¶¶¶<md:KR5a0224_HFL_002-007b>¶
+
+
+　　催催螟(百草霜書竹/片上埋及焚)¶¶
+
+　蝗土書(蛟/令)(虎/令)¶¶
+
 　(蛇/令)乙(不祥/起用)行(兵煞/逆用)¶
-　　　　　號二六¶
-¶
-　(民/平)(水/順)(息/火)(昇/死)¶
-¶
-　平(海河/潮决)通(拜/章)逹(奏/事)¶
-¶
-　　　　　(治催日月)¶
-<pb:KR5a0224_HFL_002-008a>¶
-¶
-　炁(病)炁(生)炁(食)¶
-¶
-　安(地/震)調(痰/用)旦(山/用)¶
-¶
-　和(土/用)召(萬/神)霹¶
-¶
+　　　　　號二六¶¶
+
+　(民/平)(水/順)(息/火)(昇/死)¶¶
+
+　平(海河/潮决)通(拜/章)逹(奏/事)¶¶
+
+　　　　　(治催日月)¶<md:KR5a0224_HFL_002-008a>¶¶
+<pb:KR5a0224_SJB_002-040159a>
+<img:image/040159a_1.bmp><img:image/040159a_2.bmp><img:image/040159a_3.bmp><img:image/040159a_4.bmp><img:image/040159a_5.bmp><img:image/040159a_6.bmp><img:image/040159a_7.bmp><img:image/040159a_8.bmp><img:image/040159a_9.bmp><img:image/040159a_10.bmp>
+　炁(病)炁(生)炁(食)¶¶
+
+　安(地/震)調(痰/用)旦(山/用)¶¶
+
+　和(土/用)召(萬/神)霹¶¶
+
 　靂¶
 　清微通玄祕法¶
-清微茂晨保運金明元君彭涵原雙環面如¶
-<pb:KR5a0224_HFL_002-008b>¶
+清微茂晨保運金明元君彭涵原雙環面如¶<md:KR5a0224_HFL_002-008b>¶
+
 　玉月眉鳯眼笑容素衣絳裙朱履仗劔乗¶
 　火龍居井鬼之中曰丹昭府領丹昭風火¶
 　雷霆三萬衆¶
@@ -189,9 +185,9 @@
 　　　副帥¶
 南丹流金火鈴大將軍劉明金兠鍪面赤金¶
 　甲絳衣朱履左執火鈴右仗劔¶
-南丹流火雷公大神朱膺天冠青面朱衣金¶
-<pb:KR5a0224_HFL_002-009a>¶
-　甲執斧鑚負雷車¶
+南丹流火雷公大神朱膺天冠青面朱衣金¶<md:KR5a0224_HFL_002-009a>¶
+<pb:KR5a0224_SJB_002-040159b>
+<img:image/040159b_1.bmp><img:image/040159b_2.bmp><img:image/040159b_3.bmp><img:image/040159b_4.bmp><img:image/040159b_5.bmp><img:image/040159b_6.bmp><img:image/040159b_7.bmp><img:image/040159b_8.bmp>　甲執斧鑚負雷車¶
 南丹流火電母元君廣循玉女狀仗劔青衣¶
 　朱履¶
 南丹飛天風伯神君雷光卿天冠面黒金甲¶
@@ -200,32 +196,32 @@
 　衣朱履擲雨車¶
 東方天雷威華神君信樞¶
 南方天雷威和神君趙庚¶
-西方天雷威元神君史和¶
-<pb:KR5a0224_HFL_002-009b>¶
+西方天雷威元神君史和¶<md:KR5a0224_HFL_002-009b>¶
+
 北方天雷威猷神君吕允¶
 中央天雷威復神君王杰¶
 　並王者狀火冠鑚鉞背雷車¶
 萬元通化神衞上靈五雷符使周茂玄冠紫¶
 　面金甲玄袍朱履執戟¶
-　　　信香符¶
-¶
-　(請/師)(啓/師)(面/叩)(命/將)¶
-¶
-　(役/將)(傳/令)(起/香)(催/香)¶
-¶
-<pb:KR5a0224_HFL_002-010a>¶
-¶
+　　　信香符¶¶
+
+　(請/師)(啓/師)(面/叩)(命/將)¶¶
+
+　(役/將)(傳/令)(起/香)(催/香)¶¶<md:KR5a0224_HFL_002-010a>¶¶
+
+<pb:KR5a0224_SJB_002-040159c>
+<img:image/040159c_1.bmp><img:image/040159c_2.bmp><img:image/040159c_3.bmp><img:image/040159c_4.bmp><img:image/040159c_5.bmp><img:image/040159c_6.bmp>
 　(催/香)(謝/香)¶
-　　　清微飛運雷霆印(用黄素印剪方香/上召役前諸雷神)¶
-¶
-¶
-¶
-¶
-¶
+　　　清微飛運雷霆印(用黄素印剪方香/上召役前諸雷神)¶¶¶¶¶¶
+
+
+
+
+
 　　　都催令¶
-　　　　　　(虚書/香上)¶
-<pb:KR5a0224_HFL_002-010b>¶
-¶
+　　　　　　(虚書/香上)¶<md:KR5a0224_HFL_002-010b>¶¶
+
+
 　清微演運訣¶
 清微炁樞元皇元君李謙紫虚化完福府披¶
 　髮玉女相絳衣黄裙執雷函乗青龍¶
@@ -235,98 +231,97 @@
 　髻面白色柳眉杏目青衣金甲持斧乗黒¶
 　龍¶
 　右三師統雷神檢雷霆¶
-　　　信香符(叩請宻奏立/應事急奏告)¶
-<pb:KR5a0224_HFL_002-011a>¶
-¶
-¶
-　(風雲雷電)¶
-¶
-　(雪雹雨露)¶
-¶
-　(霹靂晴龍)¶
-¶
-　(安)(兵螟/用)(蝗/用)¶
-¶
-<pb:KR5a0224_HFL_002-011b>¶
-¶
+　　　信香符(叩請宻奏立/應事急奏告)¶<md:KR5a0224_HFL_002-011a>¶¶¶
+<pb:KR5a0224_SJB_002-040160a>
+<img:image/040160a_1.bmp><img:image/040160a_2.bmp><img:image/040160a_3.bmp><img:image/040160a_4.bmp><img:image/040160a_5.bmp><img:image/040160a_6.bmp><img:image/040160a_7.bmp><img:image/040160a_8.bmp><img:image/040160a_9.bmp><img:image/040160a_10.bmp><img:image/040160a_11.bmp><img:image/040160a_12.bmp><img:image/040160a_13.bmp><img:image/040160a_14.bmp><img:image/040160a_15.bmp><img:image/040160a_16.bmp><img:image/040160a_17.bmp><img:image/040160a_18.bmp><img:image/040160a_19.bmp>
+
+　(風雲雷電)¶¶
+
+　(雪雹雨露)¶¶
+
+　(霹靂晴龍)¶¶
+
+　(安)(兵螟/用)(蝗/用)¶¶<md:KR5a0224_HFL_002-011b>¶¶
+
+
+
 　(合)(治病催/催生)¶
-　　　清微飛符¶
-¶
-　(樞機)¶
-¶
+　　　清微飛符¶¶
+
+　(樞機)¶¶
+
 　右上請三師檄命雷霆通用只就批處云¶
 　(臣)某昨承師授恭凖¶
 　　元降師旨告行¶
 　清微飛符(立應亦可香上/烈火焚之口云)恭奉¶
-　師君清微應化廣明三大元君道旨火¶
-<pb:KR5a0224_HFL_002-012a>¶
-　急奉行¶
+　師君清微應化廣明三大元君道旨火¶<md:KR5a0224_HFL_002-012a>¶
+<pb:KR5a0224_SJB_002-040160b>
+<img:image/040160b_1.bmp><img:image/040160b_2.bmp><img:image/040160b_3.bmp>　急奉行¶
 清微靈和元君管靜卿元妃化璋元府鳯冠¶
 　玉相自然眉鳯目紫服碧裙大帶朱履執¶
 　圭清微天中靈光宮闕下¶
 　　　信香符¶
-　　　　　(朝/用)¶
-¶
-　　　心香符¶
-¶
-¶
-<pb:KR5a0224_HFL_002-012b>¶
+　　　　　(朝/用)¶¶
+
+　　　心香符¶¶¶<md:KR5a0224_HFL_002-012b>¶
+
+
+
 　長跪黙念隆育智謙虔泓清(七遍/而退)¶
 　臣昨於某年某月某日拜度師某傳受某¶
 　法泒襲清微大化臣某上啓¶
 　祖師清微靈和元妃道君臣所啓所告乞¶
 　賜臣心通意會凡有懇祈立望昭報凡有¶
-體天學篆即賜感通¶
-¶
-¶
-¶
-¶
-<pb:KR5a0224_HFL_002-013a>¶
-¶
-¶
+體天學篆即賜感通¶¶¶¶¶<md:KR5a0224_HFL_002-013a>¶¶¶
+
+
+
+
+<pb:KR5a0224_SJB_002-040160c>
+<img:image/040160c_1.bmp><img:image/040160c_2.bmp><img:image/040160c_3.bmp><img:image/040160c_4.bmp><img:image/040160c_5.bmp><img:image/040160c_6.bmp><img:image/040160c_7.bmp><img:image/040160c_8.bmp><img:image/040160c_9.bmp><img:image/040160c_10.bmp><img:image/040160c_11.bmp><img:image/040160c_12.bmp><img:image/040160c_13.bmp>
+
 　右符九道金光自天而下入口中便畢行¶
 　之自驗甲日始¶
-　　　清微祕旨(通用三界十方雷霆/香上存批符書篆)¶
-¶
-　(詔勑律令)¶
-¶
-　速合(催/用)應(催/用)¶
-¶
-<pb:KR5a0224_HFL_002-013b>¶
-　　　清微眞原印(一寸/三分)¶
-¶
-¶
-¶
+　　　清微祕旨(通用三界十方雷霆/香上存批符書篆)¶¶
+
+　(詔勑律令)¶¶
+
+　速合(催/用)應(催/用)¶¶<md:KR5a0224_HFL_002-013b>¶
+
+　　　清微眞原印(一寸/三分)¶¶¶¶
+
+
+
 　上清泒¶
 上清元君西華聖母以髙仙上明玉章計三¶
-章授許眞君今得四字流傳于後¶
-¶
-　　　髙仙上明玉章¶
-¶
+章授許眞君今得四字流傳于後¶¶
+
+　　　髙仙上明玉章¶¶
+
 　(兆汲惠居)¶
 　靈寳泒¶
-　　　玄一眞人玉清應化符¶
-<pb:KR5a0224_HFL_002-014a>¶
-¶
-　(道)¶
-¶
-　　　玄二眞人上清應化符¶
-¶
-　(道)¶
-¶
-　　　玄三眞人太清應化符¶
-¶
-¶
-<pb:KR5a0224_HFL_002-014b>¶
-清微元降大法卷之二¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
+　　　玄一眞人玉清應化符¶<md:KR5a0224_HFL_002-014a>¶¶
+<pb:KR5a0224_SJB_002-040161a>
+<img:image/040161a_1.bmp><img:image/040161a_2.bmp><img:image/040161a_3.bmp>
+　(道)¶¶
+
+　　　玄二眞人上清應化符¶¶
+
+　(道)¶¶
+
+　　　玄三眞人太清應化符¶¶¶<md:KR5a0224_HFL_002-014b>¶
+
+
+清微元降大法卷之二¶¶¶¶¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
+
+
+

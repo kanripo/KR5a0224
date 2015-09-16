@@ -1,14 +1,12 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:42:34.702062
+# -*- mode: mandoku-view -*-
 #+TITLE: 清微元降大法
-#+PROPERTY: DZID  DZ0223
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—513 二十五卷 洞真部方法類
+#+DATE: 2015-08-28 23:42:38
+#+PROPERTY:  LASTPB <PB KR5a0224_SJB_025-040273c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0224_SJB_011-040204a>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0224_HFL_010-013b>
 #+PROPERTY: JUAN 11
-#+PROPERTY: ID KR5a0224
-<pb:KR5a0224_HFL_011-001a>¶
+<md:KR5a0224_HFL_011-001a>¶<pb:KR5a0224_SJB_011-040204b><img:image/040204b_1.bmp><img:image/040204b_2.bmp><img:image/040204b_3.bmp><img:image/040204b_4.bmp><img:image/040204b_5.bmp><img:image/040204b_6.bmp><img:image/040204b_7.bmp><img:image/040204b_8.bmp><img:image/040204b_9.bmp><img:image/040204b_10.bmp><img:image/040204b_11.bmp><img:image/040204b_12.bmp><img:image/040204b_13.bmp>
 清微元降大法卷之十一巨一¶
 　元始一炁冲玄策法¶
 　　　帥班¶
@@ -16,293 +14,292 @@
 　善相如天官狀金甲朱衣朱履執節¶
 　惡相如北斗狀騎金龍仗劒¶
 　　　祕呪¶
-朗敦¶
-¶
-　(玉策)¶
-<pb:KR5a0224_HFL_011-001b>¶
+朗敦¶¶
+
+　(玉策)¶<md:KR5a0224_HFL_011-001b>¶
+
 　右用香三片葉一片或紙二片令人男左¶
 　女右焚竈中或自擲火中或水中¶
-　　　混洞大刼始泓天經¶
-¶
-　(清蒼策玄)¶
-¶
-¶
-　(混靈句功)¶
-¶
-　(浩劫廓朗)¶
-¶
-<pb:KR5a0224_HFL_011-002a>¶
-¶
-　(妙神運樞)¶
-¶
-　　　又¶
-¶
-　(混洞浩泓)¶
-¶
-　(運鎮耀明)¶
-¶
-　(炁始涵劫)¶
-<pb:KR5a0224_HFL_011-002b>¶
-¶
+　　　混洞大刼始泓天經¶¶
+
+　(清蒼策玄)¶¶¶
+
+
+　(混靈句功)¶¶
+
+　(浩劫廓朗)¶¶<md:KR5a0224_HFL_011-002a>¶¶
+
+<pb:KR5a0224_SJB_011-040204c>
+<img:image/040204c_1.bmp><img:image/040204c_2.bmp><img:image/040204c_3.bmp><img:image/040204c_4.bmp><img:image/040204c_5.bmp><img:image/040204c_6.bmp><img:image/040204c_7.bmp><img:image/040204c_8.bmp><img:image/040204c_9.bmp><img:image/040204c_10.bmp><img:image/040204c_11.bmp><img:image/040204c_12.bmp><img:image/040204c_13.bmp><img:image/040204c_14.bmp><img:image/040204c_15.bmp><img:image/040204c_16.bmp><img:image/040204c_17.bmp><img:image/040204c_18.bmp><img:image/040204c_19.bmp><img:image/040204c_20.bmp><img:image/040204c_21.bmp><img:image/040204c_22.bmp><img:image/040204c_23.bmp><img:image/040204c_24.bmp><img:image/040204c_25.bmp><img:image/040204c_26.bmp><img:image/040204c_27.bmp><img:image/040204c_28.bmp><img:image/040204c_29.bmp><img:image/040204c_30.bmp><img:image/040204c_31.bmp><img:image/040204c_32.bmp>
+　(妙神運樞)¶¶
+
+　　　又¶¶
+
+　(混洞浩泓)¶¶
+
+　(運鎮耀明)¶¶
+
+　(炁始涵劫)¶<md:KR5a0224_HFL_011-002b>¶¶
+
+
 　(妙渾天經)¶
-　　　又¶
-¶
-　(混洞浩泓)¶
-¶
-¶
-　(運鎭耀明)¶
-¶
-　(炁始涵劫)¶
-¶
-<pb:KR5a0224_HFL_011-003a>¶
-¶
-　(妙渾天經)¶
-¶
-　　　又¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0224_HFL_011-003b>¶
-¶
-¶
-　　　元始自然童神玄經¶
-¶
-　(丹皇辰景)¶
-¶
-¶
-　(宸化旋欽)¶
-¶
-　(一亮凝虚)¶
-¶
-<pb:KR5a0224_HFL_011-004a>¶
-¶
-　(照耀太玄)¶
-¶
-　(自然與道)¶
-¶
-　(梵炁周通)¶
-¶
-　　　又¶
-¶
-　(混沖浩溥)¶
-<pb:KR5a0224_HFL_011-004b>¶
-¶
-　(靈竒涵滌)¶
-¶
+　　　又¶¶
+
+　(混洞浩泓)¶¶¶
+
+
+　(運鎭耀明)¶¶
+
+　(炁始涵劫)¶¶<md:KR5a0224_HFL_011-003a>¶¶
+
+<pb:KR5a0224_SJB_011-040205a>
+<img:image/040205a_1.bmp><img:image/040205a_2.bmp><img:image/040205a_3.bmp><img:image/040205a_4.bmp><img:image/040205a_5.bmp><img:image/040205a_6.bmp><img:image/040205a_7.bmp><img:image/040205a_8.bmp><img:image/040205a_9.bmp><img:image/040205a_10.bmp><img:image/040205a_11.bmp><img:image/040205a_12.bmp><img:image/040205a_13.bmp><img:image/040205a_14.bmp><img:image/040205a_15.bmp><img:image/040205a_16.bmp><img:image/040205a_17.bmp><img:image/040205a_18.bmp>
+　(妙渾天經)¶¶
+
+　　　又¶¶¶¶¶¶¶<md:KR5a0224_HFL_011-003b>¶¶¶
+
+
+
+
+
+
+
+
+
+　　　元始自然童神玄經¶¶
+
+　(丹皇辰景)¶¶¶
+
+
+　(宸化旋欽)¶¶
+
+　(一亮凝虚)¶¶<md:KR5a0224_HFL_011-004a>¶¶
+
+<pb:KR5a0224_SJB_011-040205b>
+<img:image/040205b_1.bmp><img:image/040205b_2.bmp><img:image/040205b_3.bmp><img:image/040205b_4.bmp><img:image/040205b_5.bmp><img:image/040205b_6.bmp><img:image/040205b_7.bmp><img:image/040205b_8.bmp><img:image/040205b_9.bmp><img:image/040205b_10.bmp><img:image/040205b_11.bmp><img:image/040205b_12.bmp><img:image/040205b_13.bmp><img:image/040205b_14.bmp><img:image/040205b_15.bmp><img:image/040205b_16.bmp><img:image/040205b_17.bmp><img:image/040205b_18.bmp><img:image/040205b_19.bmp><img:image/040205b_20.bmp><img:image/040205b_21.bmp><img:image/040205b_22.bmp><img:image/040205b_23.bmp><img:image/040205b_24.bmp><img:image/040205b_25.bmp><img:image/040205b_26.bmp><img:image/040205b_27.bmp><img:image/040205b_28.bmp><img:image/040205b_29.bmp><img:image/040205b_30.bmp><img:image/040205b_31.bmp>
+　(照耀太玄)¶¶
+
+　(自然與道)¶¶
+
+　(梵炁周通)¶¶
+
+　　　又¶¶
+
+　(混沖浩溥)¶<md:KR5a0224_HFL_011-004b>¶¶
+
+
+　(靈竒涵滌)¶¶
+
 　(濟潜玄)¶
-　　　又¶
-¶
-　(亶清崇浸)¶
-¶
-　(元畢隆齊)¶
-¶
-<pb:KR5a0224_HFL_011-005a>¶
-¶
-　(并合束滉)¶
-¶
-　(明)¶
-¶
-　　　又¶
-¶
-¶
-　(髙始炁化)¶
-¶
-<pb:KR5a0224_HFL_011-005b>¶
-　(自然内觀)¶
-¶
-¶
-　(童君妙有)¶
-¶
-　(陽隂萬品)¶
-¶
-¶
-　(自真爽漠)¶
-¶
-　(元合開平)¶
-¶
-<pb:KR5a0224_HFL_011-006a>¶
-　　　又¶
-¶
-¶
-¶
-¶
-¶
-¶
-　　　又¶
-¶
-¶
-<pb:KR5a0224_HFL_011-006b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0224_HFL_011-007a>¶
-　　　元始開圖小劫洞章¶
-¶
-　(煙虚開豁)¶
-¶
-　(元始啓圖)¶
-¶
-　(泰華俱命)¶
-¶
-　(信文充敷)¶
-¶
-<pb:KR5a0224_HFL_011-007b>¶
-¶
-　(碧文崇煥)¶
-¶
-　(升隆合符)¶
-¶
-　　　又¶
-¶
-　(蕩混劫涬)¶
-¶
-　(鬱結濁清)¶
-¶
-<pb:KR5a0224_HFL_011-008a>¶
-¶
-　(元始昭圖)¶
-¶
-　(地天洞溟)¶
-¶
-¶
-　(明照朗幽)¶
-¶
-　(淵升居宸)¶
-¶
-<pb:KR5a0224_HFL_011-008b>¶
-　　　又¶
-¶
-　(浩清真化)¶
-¶
-　(上下昭淵)¶
-¶
-¶
+　　　又¶¶
+
+　(亶清崇浸)¶¶
+
+　(元畢隆齊)¶¶<md:KR5a0224_HFL_011-005a>¶¶
+
+<pb:KR5a0224_SJB_011-040205c>
+<img:image/040205c_1.bmp><img:image/040205c_2.bmp><img:image/040205c_3.bmp><img:image/040205c_4.bmp><img:image/040205c_5.bmp><img:image/040205c_6.bmp><img:image/040205c_7.bmp><img:image/040205c_8.bmp><img:image/040205c_9.bmp><img:image/040205c_10.bmp><img:image/040205c_11.bmp><img:image/040205c_12.bmp><img:image/040205c_13.bmp><img:image/040205c_14.bmp><img:image/040205c_15.bmp><img:image/040205c_16.bmp><img:image/040205c_17.bmp><img:image/040205c_18.bmp><img:image/040205c_19.bmp><img:image/040205c_20.bmp><img:image/040205c_21.bmp><img:image/040205c_22.bmp><img:image/040205c_23.bmp><img:image/040205c_24.bmp><img:image/040205c_25.bmp><img:image/040205c_26.bmp><img:image/040205c_27.bmp><img:image/040205c_28.bmp><img:image/040205c_29.bmp>
+　(并合束滉)¶¶
+
+　(明)¶¶
+
+　　　又¶¶¶
+
+
+　(髙始炁化)¶¶<md:KR5a0224_HFL_011-005b>¶
+
+　(自然内觀)¶¶¶
+
+
+　(童君妙有)¶¶
+
+　(陽隂萬品)¶¶¶
+
+
+　(自真爽漠)¶¶
+
+　(元合開平)¶¶<md:KR5a0224_HFL_011-006a>¶
+
+<pb:KR5a0224_SJB_011-040206a>
+<img:image/040206a_1.bmp><img:image/040206a_2.bmp><img:image/040206a_3.bmp><img:image/040206a_4.bmp>　　　又¶¶¶¶¶¶¶
+
+
+
+
+
+
+　　　又¶¶¶<md:KR5a0224_HFL_011-006b>¶¶¶¶¶¶¶¶¶¶¶¶<md:KR5a0224_HFL_011-007a>¶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pb:KR5a0224_SJB_011-040206b>
+<img:image/040206b_1.bmp><img:image/040206b_2.bmp><img:image/040206b_3.bmp><img:image/040206b_4.bmp><img:image/040206b_5.bmp><img:image/040206b_6.bmp><img:image/040206b_7.bmp><img:image/040206b_8.bmp><img:image/040206b_9.bmp><img:image/040206b_10.bmp><img:image/040206b_11.bmp><img:image/040206b_12.bmp><img:image/040206b_13.bmp><img:image/040206b_14.bmp><img:image/040206b_15.bmp><img:image/040206b_16.bmp><img:image/040206b_17.bmp><img:image/040206b_18.bmp><img:image/040206b_19.bmp><img:image/040206b_20.bmp><img:image/040206b_21.bmp><img:image/040206b_22.bmp><img:image/040206b_23.bmp><img:image/040206b_24.bmp><img:image/040206b_25.bmp><img:image/040206b_26.bmp><img:image/040206b_27.bmp><img:image/040206b_28.bmp><img:image/040206b_29.bmp><img:image/040206b_30.bmp><img:image/040206b_31.bmp><img:image/040206b_32.bmp>　　　元始開圖小劫洞章¶¶
+
+　(煙虚開豁)¶¶
+
+　(元始啓圖)¶¶
+
+　(泰華俱命)¶¶
+
+　(信文充敷)¶¶<md:KR5a0224_HFL_011-007b>¶¶
+
+
+
+　(碧文崇煥)¶¶
+
+　(升隆合符)¶¶
+
+　　　又¶¶
+
+　(蕩混劫涬)¶¶
+
+　(鬱結濁清)¶¶<md:KR5a0224_HFL_011-008a>¶¶
+
+<pb:KR5a0224_SJB_011-040206c>
+<img:image/040206c_1.bmp><img:image/040206c_2.bmp><img:image/040206c_3.bmp><img:image/040206c_4.bmp><img:image/040206c_5.bmp><img:image/040206c_6.bmp><img:image/040206c_7.bmp><img:image/040206c_8.bmp><img:image/040206c_9.bmp><img:image/040206c_10.bmp><img:image/040206c_11.bmp><img:image/040206c_12.bmp><img:image/040206c_13.bmp><img:image/040206c_14.bmp><img:image/040206c_15.bmp><img:image/040206c_16.bmp><img:image/040206c_17.bmp><img:image/040206c_18.bmp><img:image/040206c_19.bmp><img:image/040206c_20.bmp><img:image/040206c_21.bmp><img:image/040206c_22.bmp><img:image/040206c_23.bmp><img:image/040206c_24.bmp><img:image/040206c_25.bmp><img:image/040206c_26.bmp><img:image/040206c_27.bmp><img:image/040206c_28.bmp><img:image/040206c_29.bmp><img:image/040206c_30.bmp><img:image/040206c_31.bmp><img:image/040206c_32.bmp>
+　(元始昭圖)¶¶
+
+　(地天洞溟)¶¶¶
+
+
+　(明照朗幽)¶¶
+
+　(淵升居宸)¶¶<md:KR5a0224_HFL_011-008b>¶
+
+
+　　　又¶¶
+
+　(浩清真化)¶¶
+
+　(上下昭淵)¶¶¶
+
+
 　(普運内明)¶
-　　　又¶
-¶
-　(妙源開廓)¶
-<pb:KR5a0224_HFL_011-009a>¶
-¶
-　(高鎭初玄)¶
-¶
-　(泳汲昌申)¶
-¶
-　　　又¶
-¶
-¶
-¶
-¶
-<pb:KR5a0224_HFL_011-009b>¶
-¶
-¶
-　　　又¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0224_HFL_011-010a>¶
-　　　又¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0224_HFL_011-010b>¶
-¶
-¶
-¶
-¶
-¶
-　　　碧虚至道¶
-¶
-　(混沌玉極)¶
-¶
-　(洞廣十郷)¶
-¶
-<pb:KR5a0224_HFL_011-011a>¶
-¶
-　(爍曜根化)¶
-¶
+　　　又¶¶
+
+　(妙源開廓)¶<md:KR5a0224_HFL_011-009a>¶¶
+<pb:KR5a0224_SJB_011-040207a>
+<img:image/040207a_1.bmp><img:image/040207a_2.bmp><img:image/040207a_3.bmp><img:image/040207a_4.bmp><img:image/040207a_5.bmp><img:image/040207a_6.bmp><img:image/040207a_7.bmp><img:image/040207a_8.bmp><img:image/040207a_9.bmp><img:image/040207a_10.bmp><img:image/040207a_11.bmp>
+　(高鎭初玄)¶¶
+
+　(泳汲昌申)¶¶
+
+　　　又¶¶¶¶¶<md:KR5a0224_HFL_011-009b>¶¶¶
+
+
+
+
+
+
+
+　　　又¶¶¶¶¶¶¶¶<md:KR5a0224_HFL_011-010a>¶
+
+
+
+
+
+
+
+<pb:KR5a0224_SJB_011-040207b>
+<img:image/040207b_1.bmp><img:image/040207b_2.bmp><img:image/040207b_3.bmp><img:image/040207b_4.bmp><img:image/040207b_5.bmp><img:image/040207b_6.bmp><img:image/040207b_7.bmp><img:image/040207b_8.bmp><img:image/040207b_9.bmp><img:image/040207b_10.bmp><img:image/040207b_11.bmp>　　　又¶¶¶¶¶¶¶¶¶¶<md:KR5a0224_HFL_011-010b>¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　碧虚至道¶¶
+
+　(混沌玉極)¶¶
+
+　(洞廣十郷)¶¶<md:KR5a0224_HFL_011-011a>¶¶
+
+<pb:KR5a0224_SJB_011-040207c>
+<img:image/040207c_1.bmp><img:image/040207c_2.bmp><img:image/040207c_3.bmp><img:image/040207c_4.bmp><img:image/040207c_5.bmp><img:image/040207c_6.bmp><img:image/040207c_7.bmp><img:image/040207c_8.bmp><img:image/040207c_9.bmp><img:image/040207c_10.bmp><img:image/040207c_11.bmp><img:image/040207c_12.bmp><img:image/040207c_13.bmp><img:image/040207c_14.bmp><img:image/040207c_15.bmp><img:image/040207c_16.bmp><img:image/040207c_17.bmp><img:image/040207c_18.bmp><img:image/040207c_19.bmp><img:image/040207c_20.bmp><img:image/040207c_21.bmp><img:image/040207c_22.bmp><img:image/040207c_23.bmp><img:image/040207c_24.bmp><img:image/040207c_25.bmp><img:image/040207c_26.bmp><img:image/040207c_27.bmp><img:image/040207c_28.bmp><img:image/040207c_29.bmp><img:image/040207c_30.bmp><img:image/040207c_31.bmp><img:image/040207c_32.bmp>
+　(爍曜根化)¶¶
+
 　(空徹虚皇)¶
-　　　又¶
-¶
-¶
+　　　又¶¶¶
+
+
 　(混洞爍空)¶
-　　　紫皇上道¶
-¶
-<pb:KR5a0224_HFL_011-011b>¶
-　(沌立道應)¶
-¶
-¶
-　(瑩照遐昌)¶
-¶
-　(澄膺萬景)¶
-¶
-　(修演靈章)¶
-¶
+　　　紫皇上道¶¶<md:KR5a0224_HFL_011-011b>¶
+
+　(沌立道應)¶¶¶
+
+
+　(瑩照遐昌)¶¶
+
+　(澄膺萬景)¶¶
+
+　(修演靈章)¶¶
+
 　　　琅元景道¶
-　(烈威穹象)¶
-¶
-<pb:KR5a0224_HFL_011-012a>¶
-¶
-　(震召天梁)¶
-¶
-　(輔分清濁)¶
-¶
-　(衝孚隂陽)¶
-¶
-　　　元始自然童神寳章¶
-¶
-¶
-<pb:KR5a0224_HFL_011-012b>¶
-¶
-¶
-　　　大劫符¶
-¶
-¶
-¶
-¶
-　　　童神符¶
-¶
-¶
-　　　小劫符¶
-<pb:KR5a0224_HFL_011-013a>¶
-¶
-¶
-¶
+　(烈威穹象)¶¶<md:KR5a0224_HFL_011-012a>¶¶
+
+<pb:KR5a0224_SJB_011-040208a>
+<img:image/040208a_1.bmp><img:image/040208a_2.bmp><img:image/040208a_3.bmp><img:image/040208a_4.bmp><img:image/040208a_5.bmp><img:image/040208a_6.bmp><img:image/040208a_7.bmp><img:image/040208a_8.bmp><img:image/040208a_9.bmp><img:image/040208a_10.bmp><img:image/040208a_11.bmp><img:image/040208a_12.bmp><img:image/040208a_13.bmp><img:image/040208a_14.bmp><img:image/040208a_15.bmp><img:image/040208a_16.bmp>
+　(震召天梁)¶¶
+
+　(輔分清濁)¶¶
+
+　(衝孚隂陽)¶¶
+
+　　　元始自然童神寳章¶¶¶<md:KR5a0224_HFL_011-012b>¶¶¶
+
+
+
+
+
+　　　大劫符¶¶¶¶¶
+
+
+
+
+　　　童神符¶¶¶
+
+
+　　　小劫符¶<md:KR5a0224_HFL_011-013a>¶¶¶¶
+<pb:KR5a0224_SJB_011-040208b>
+<img:image/040208b_1.bmp><img:image/040208b_2.bmp>
+
+
 　　　大總印¶
-　(道)¶
-¶
-¶
-　右印內圓外方一寸¶
-¶
-清微元降大法卷之十一¶
-<pb:KR5a0224_HFL_011-013b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
+　(道)¶¶¶
+
+
+　右印內圓外方一寸¶¶
+
+清微元降大法卷之十一¶<md:KR5a0224_HFL_011-013b>¶¶¶¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
+
+
+

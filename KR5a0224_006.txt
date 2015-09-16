@@ -1,286 +1,284 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:42:34.611159
+# -*- mode: mandoku-view -*-
 #+TITLE: 清微元降大法
-#+PROPERTY: DZID  DZ0223
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—513 二十五卷 洞真部方法類
+#+DATE: 2015-08-28 23:42:38
+#+PROPERTY:  LASTPB <PB KR5a0224_SJB_025-040273c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0224_SJB_006-040179b>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0224_HFL_005-018b>
 #+PROPERTY: JUAN 6
-#+PROPERTY: ID KR5a0224
-<pb:KR5a0224_HFL_006-001a>¶
+<md:KR5a0224_HFL_006-001a>¶<pb:KR5a0224_SJB_006-040179c><img:image/040179c_1.bmp><img:image/040179c_2.bmp><img:image/040179c_3.bmp><img:image/040179c_4.bmp><img:image/040179c_5.bmp><img:image/040179c_6.bmp><img:image/040179c_7.bmp><img:image/040179c_8.bmp><img:image/040179c_9.bmp><img:image/040179c_10.bmp><img:image/040179c_11.bmp><img:image/040179c_12.bmp><img:image/040179c_13.bmp><img:image/040179c_14.bmp><img:image/040179c_15.bmp><img:image/040179c_16.bmp><img:image/040179c_17.bmp><img:image/040179c_18.bmp><img:image/040179c_19.bmp><img:image/040179c_20.bmp><img:image/040179c_21.bmp><img:image/040179c_22.bmp><img:image/040179c_23.bmp><img:image/040179c_24.bmp><img:image/040179c_25.bmp><img:image/040179c_26.bmp><img:image/040179c_27.bmp><img:image/040179c_28.bmp>
 清微元降大法卷之六號六¶
-　　　三寶無量轟雷洞章¶
-¶
-　(澄鎮六炁)¶
-¶
-¶
-　(升降風霆)¶
-¶
-　(濟度動植)¶
-¶
-<pb:KR5a0224_HFL_006-001b>¶
-¶
-　(攝召萬真)¶
-¶
-　(制伏興運)¶
-¶
-¶
-　(與道同清)¶
-¶
-　(轟雷掣電)¶
-¶
-<pb:KR5a0224_HFL_006-002a>¶
-¶
+　　　三寶無量轟雷洞章¶¶
+
+　(澄鎮六炁)¶¶¶
+
+
+　(升降風霆)¶¶
+
+　(濟度動植)¶¶<md:KR5a0224_HFL_006-001b>¶¶
+
+
+
+　(攝召萬真)¶¶
+
+　(制伏興運)¶¶¶
+
+
+　(與道同清)¶¶
+
+　(轟雷掣電)¶¶<md:KR5a0224_HFL_006-002a>¶¶
+
+<pb:KR5a0224_SJB_006-040180a>
+<img:image/040180a_1.bmp><img:image/040180a_2.bmp><img:image/040180a_3.bmp><img:image/040180a_4.bmp><img:image/040180a_5.bmp><img:image/040180a_6.bmp><img:image/040180a_7.bmp><img:image/040180a_8.bmp><img:image/040180a_9.bmp><img:image/040180a_10.bmp><img:image/040180a_11.bmp><img:image/040180a_12.bmp><img:image/040180a_13.bmp><img:image/040180a_14.bmp><img:image/040180a_15.bmp><img:image/040180a_16.bmp><img:image/040180a_17.bmp><img:image/040180a_18.bmp><img:image/040180a_19.bmp><img:image/040180a_20.bmp><img:image/040180a_21.bmp><img:image/040180a_22.bmp><img:image/040180a_23.bmp><img:image/040180a_24.bmp><img:image/040180a_25.bmp><img:image/040180a_26.bmp><img:image/040180a_27.bmp><img:image/040180a_28.bmp><img:image/040180a_29.bmp><img:image/040180a_30.bmp><img:image/040180a_31.bmp><img:image/040180a_32.bmp>
 　(駕景淩煌)¶
-　　　清微策天靈經¶
-¶
-　(泓靈冲奕)¶
-¶
-　(淵欽渙洪)¶
-¶
-　　　元始保神真經¶
-¶
-<pb:KR5a0224_HFL_006-002b>¶
-　(先真浩漠)¶
-¶
-¶
-　(妙氣渾淪)¶
-¶
-　(告自劫始)¶
-¶
-¶
-¶
-　(萬品生根)¶
-¶
-　(雷霆威震)¶
-¶
-<pb:KR5a0224_HFL_006-003a>¶
-¶
-　(隂陽育神)¶
-¶
-　　　清微鎮明冲化經(禳兵/保國)¶
-¶
-　(昌運冲化)¶
-¶
-　(鎮遏萬神)¶
-¶
-　(飛度圖會)¶
-<pb:KR5a0224_HFL_006-003b>¶
-¶
+　　　清微策天靈經¶¶
+
+　(泓靈冲奕)¶¶
+
+　(淵欽渙洪)¶¶
+
+　　　元始保神真經¶¶<md:KR5a0224_HFL_006-002b>¶
+
+　(先真浩漠)¶¶¶
+
+
+　(妙氣渾淪)¶¶
+
+　(告自劫始)¶¶¶¶
+
+
+
+　(萬品生根)¶¶
+
+　(雷霆威震)¶¶<md:KR5a0224_HFL_006-003a>¶¶
+
+<pb:KR5a0224_SJB_006-040180b>
+<img:image/040180b_1.bmp><img:image/040180b_2.bmp><img:image/040180b_3.bmp><img:image/040180b_4.bmp><img:image/040180b_5.bmp><img:image/040180b_6.bmp><img:image/040180b_7.bmp><img:image/040180b_8.bmp><img:image/040180b_9.bmp><img:image/040180b_10.bmp><img:image/040180b_11.bmp><img:image/040180b_12.bmp><img:image/040180b_13.bmp><img:image/040180b_14.bmp><img:image/040180b_15.bmp><img:image/040180b_16.bmp><img:image/040180b_17.bmp><img:image/040180b_18.bmp><img:image/040180b_19.bmp><img:image/040180b_20.bmp><img:image/040180b_21.bmp><img:image/040180b_22.bmp><img:image/040180b_23.bmp><img:image/040180b_24.bmp><img:image/040180b_25.bmp><img:image/040180b_26.bmp><img:image/040180b_27.bmp><img:image/040180b_28.bmp><img:image/040180b_29.bmp><img:image/040180b_30.bmp><img:image/040180b_31.bmp><img:image/040180b_32.bmp>
+　(隂陽育神)¶¶
+
+　　　清微鎮明冲化經(禳兵/保國)¶¶
+
+　(昌運冲化)¶¶
+
+　(鎮遏萬神)¶¶
+
+　(飛度圖會)¶<md:KR5a0224_HFL_006-003b>¶¶
+
+
 　(保育靈真)¶
-　　　靈寳自然運雷經¶
-¶
-　(混炁斡運)¶
-¶
-¶
-　(地天合真)¶
-¶
-　(升降妙道)¶
-¶
-<pb:KR5a0224_HFL_006-004a>¶
-¶
+　　　靈寳自然運雷經¶¶
+
+　(混炁斡運)¶¶¶
+
+
+　(地天合真)¶¶
+
+　(升降妙道)¶¶<md:KR5a0224_HFL_006-004a>¶¶
+
+<pb:KR5a0224_SJB_006-040180c>
+<img:image/040180c_1.bmp><img:image/040180c_2.bmp><img:image/040180c_3.bmp><img:image/040180c_4.bmp><img:image/040180c_5.bmp><img:image/040180c_6.bmp><img:image/040180c_7.bmp><img:image/040180c_8.bmp><img:image/040180c_9.bmp><img:image/040180c_10.bmp><img:image/040180c_11.bmp><img:image/040180c_12.bmp><img:image/040180c_13.bmp><img:image/040180c_14.bmp><img:image/040180c_15.bmp><img:image/040180c_16.bmp><img:image/040180c_17.bmp><img:image/040180c_18.bmp><img:image/040180c_19.bmp><img:image/040180c_20.bmp><img:image/040180c_21.bmp><img:image/040180c_22.bmp><img:image/040180c_23.bmp><img:image/040180c_24.bmp><img:image/040180c_25.bmp><img:image/040180c_26.bmp><img:image/040180c_27.bmp><img:image/040180c_28.bmp><img:image/040180c_29.bmp>
 　(皇耀與靈)¶
-　　　上清玊虚紫光妙經¶
-¶
-　(紫英天育)¶
-¶
+　　　上清玊虚紫光妙經¶¶
+
+　(紫英天育)¶¶
+
 　(妙道玄)¶
-　　　元始樞機雷霆道經¶
-¶
-¶
-<pb:KR5a0224_HFL_006-004b>¶
-¶
-　(斡運炁化)¶
-¶
-　(回樞道真)¶
-¶
-　(霹靂祖原)¶
-¶
-　(威震緯經)¶
-¶
-　　　元始運玄經¶
-<pb:KR5a0224_HFL_006-005a>¶
-¶
-　(混清玄運)¶
-¶
-　(一炁生成)¶
-¶
-¶
-¶
-　(勑命髙厚)¶
-¶
-　(隂陽合興)¶
-<pb:KR5a0224_HFL_006-005b>¶
-¶
-　　　清微妙華天經¶
-¶
-　(道茂開神)¶
-¶
-　(經緯元精)¶
-¶
-　(樞機妙化)¶
-¶
-　(亶由旭空)¶
-¶
-<pb:KR5a0224_HFL_006-006a>¶
-¶
-　(通玄和育)¶
-¶
-　(豐冲伸隆)¶
-¶
-¶
-　(宏陽允漠)¶
-¶
-　(符炁招雍)¶
-¶
-<pb:KR5a0224_HFL_006-006b>¶
-¶
-　(自然周運)¶
-¶
-　(萬靈㑹同)¶
-¶
-　　　元始保劫真經(一名隂陽/昭回靈經)¶
-¶
-　(斡化昭運)¶
-¶
-　(保合樞機)¶
-¶
-<pb:KR5a0224_HFL_006-007a>¶
-¶
-　(靈清道命)¶
-¶
-　(升降合)¶
-¶
-　　　元始保劫洞章¶
-¶
-　(詔勑律令)¶
-¶
-　(安鎮誅伐)¶
-<pb:KR5a0224_HFL_006-007b>¶
-¶
+　　　元始樞機雷霆道經¶¶¶<md:KR5a0224_HFL_006-004b>¶¶
+
+
+
+
+　(斡運炁化)¶¶
+
+　(回樞道真)¶¶
+
+　(霹靂祖原)¶¶
+
+　(威震緯經)¶¶
+
+　　　元始運玄經¶<md:KR5a0224_HFL_006-005a>¶¶
+<pb:KR5a0224_SJB_006-040181a>
+<img:image/040181a_1.bmp><img:image/040181a_2.bmp><img:image/040181a_3.bmp><img:image/040181a_4.bmp><img:image/040181a_5.bmp><img:image/040181a_6.bmp><img:image/040181a_7.bmp><img:image/040181a_8.bmp><img:image/040181a_9.bmp><img:image/040181a_10.bmp><img:image/040181a_11.bmp><img:image/040181a_12.bmp><img:image/040181a_13.bmp><img:image/040181a_14.bmp><img:image/040181a_15.bmp><img:image/040181a_16.bmp><img:image/040181a_17.bmp><img:image/040181a_18.bmp><img:image/040181a_19.bmp><img:image/040181a_20.bmp><img:image/040181a_21.bmp><img:image/040181a_22.bmp><img:image/040181a_23.bmp><img:image/040181a_24.bmp><img:image/040181a_25.bmp><img:image/040181a_26.bmp><img:image/040181a_27.bmp><img:image/040181a_28.bmp><img:image/040181a_29.bmp><img:image/040181a_30.bmp><img:image/040181a_31.bmp><img:image/040181a_32.bmp>
+　(混清玄運)¶¶
+
+　(一炁生成)¶¶¶¶
+
+
+
+　(勑命髙厚)¶¶
+
+　(隂陽合興)¶<md:KR5a0224_HFL_006-005b>¶¶
+
+
+　　　清微妙華天經¶¶
+
+　(道茂開神)¶¶
+
+　(經緯元精)¶¶
+
+　(樞機妙化)¶¶
+
+　(亶由旭空)¶¶<md:KR5a0224_HFL_006-006a>¶¶
+
+<pb:KR5a0224_SJB_006-040181b>
+<img:image/040181b_1.bmp><img:image/040181b_2.bmp><img:image/040181b_3.bmp><img:image/040181b_4.bmp><img:image/040181b_5.bmp><img:image/040181b_6.bmp><img:image/040181b_7.bmp><img:image/040181b_8.bmp><img:image/040181b_9.bmp><img:image/040181b_10.bmp><img:image/040181b_11.bmp><img:image/040181b_12.bmp><img:image/040181b_13.bmp><img:image/040181b_14.bmp><img:image/040181b_15.bmp><img:image/040181b_16.bmp><img:image/040181b_17.bmp><img:image/040181b_18.bmp><img:image/040181b_19.bmp><img:image/040181b_20.bmp><img:image/040181b_21.bmp><img:image/040181b_22.bmp><img:image/040181b_23.bmp><img:image/040181b_24.bmp><img:image/040181b_25.bmp><img:image/040181b_26.bmp><img:image/040181b_27.bmp><img:image/040181b_28.bmp><img:image/040181b_29.bmp><img:image/040181b_30.bmp><img:image/040181b_31.bmp><img:image/040181b_32.bmp>
+　(通玄和育)¶¶
+
+　(豐冲伸隆)¶¶¶
+
+
+　(宏陽允漠)¶¶
+
+　(符炁招雍)¶¶<md:KR5a0224_HFL_006-006b>¶¶
+
+
+
+　(自然周運)¶¶
+
+　(萬靈㑹同)¶¶
+
+　　　元始保劫真經(一名隂陽/昭回靈經)¶¶
+
+　(斡化昭運)¶¶
+
+　(保合樞機)¶¶<md:KR5a0224_HFL_006-007a>¶¶
+
+<pb:KR5a0224_SJB_006-040181c>
+<img:image/040181c_1.bmp><img:image/040181c_2.bmp><img:image/040181c_3.bmp><img:image/040181c_4.bmp><img:image/040181c_5.bmp><img:image/040181c_6.bmp><img:image/040181c_7.bmp><img:image/040181c_8.bmp><img:image/040181c_9.bmp><img:image/040181c_10.bmp><img:image/040181c_11.bmp><img:image/040181c_12.bmp><img:image/040181c_13.bmp><img:image/040181c_14.bmp><img:image/040181c_15.bmp><img:image/040181c_16.bmp><img:image/040181c_17.bmp><img:image/040181c_18.bmp><img:image/040181c_19.bmp><img:image/040181c_20.bmp><img:image/040181c_21.bmp><img:image/040181c_22.bmp><img:image/040181c_23.bmp><img:image/040181c_24.bmp><img:image/040181c_25.bmp><img:image/040181c_26.bmp><img:image/040181c_27.bmp><img:image/040181c_28.bmp><img:image/040181c_29.bmp><img:image/040181c_30.bmp>
+　(靈清道命)¶¶
+
+　(升降合)¶¶
+
+　　　元始保劫洞章¶¶
+
+　(詔勑律令)¶¶
+
+　(安鎮誅伐)¶<md:KR5a0224_HFL_006-007b>¶¶
+
+
 　(馘攝)¶
-　　　清微妙華洞章¶
-¶
-　(兹宏冲化)¶
-¶
-¶
-　(驅馳咸通)¶
-¶
-　(靈光照曜)¶
-¶
-<pb:KR5a0224_HFL_006-008a>¶
-¶
-　(阜益咸衝)¶
-¶
-　(飛合雷風)¶
-¶
-¶
-　(景摐電明)¶
-¶
-　(炎熾雪霧)¶
-¶
-<pb:KR5a0224_HFL_006-008b>¶
-¶
-　(奔容雹雨)¶
-¶
-　(升降流鈴)¶
-¶
-¶
-¶
-　(召速天坉)¶
-¶
-　(宏功)¶
-¶
-<pb:KR5a0224_HFL_006-009a>¶
-　　　元始混通真經¶
-¶
-　(炁道妙極)¶
-¶
-　(機隂陽雷)¶
-¶
-　(霆號令風)¶
-¶
-　(火元真)¶
-¶
-<pb:KR5a0224_HFL_006-009b>¶
+　　　清微妙華洞章¶¶
+
+　(兹宏冲化)¶¶¶
+
+
+　(驅馳咸通)¶¶
+
+　(靈光照曜)¶¶<md:KR5a0224_HFL_006-008a>¶¶
+
+<pb:KR5a0224_SJB_006-040182a>
+<img:image/040182a_1.bmp><img:image/040182a_2.bmp><img:image/040182a_3.bmp><img:image/040182a_4.bmp><img:image/040182a_5.bmp><img:image/040182a_6.bmp><img:image/040182a_7.bmp><img:image/040182a_8.bmp><img:image/040182a_9.bmp><img:image/040182a_10.bmp><img:image/040182a_11.bmp><img:image/040182a_12.bmp><img:image/040182a_13.bmp><img:image/040182a_14.bmp><img:image/040182a_15.bmp><img:image/040182a_16.bmp><img:image/040182a_17.bmp><img:image/040182a_18.bmp><img:image/040182a_19.bmp><img:image/040182a_20.bmp><img:image/040182a_21.bmp><img:image/040182a_22.bmp><img:image/040182a_23.bmp><img:image/040182a_24.bmp><img:image/040182a_25.bmp><img:image/040182a_26.bmp><img:image/040182a_27.bmp><img:image/040182a_28.bmp><img:image/040182a_29.bmp><img:image/040182a_30.bmp>
+　(阜益咸衝)¶¶
+
+　(飛合雷風)¶¶¶
+
+
+　(景摐電明)¶¶
+
+　(炎熾雪霧)¶¶<md:KR5a0224_HFL_006-008b>¶¶
+
+
+
+　(奔容雹雨)¶¶
+
+　(升降流鈴)¶¶¶¶
+
+
+
+　(召速天坉)¶¶
+
+　(宏功)¶¶<md:KR5a0224_HFL_006-009a>¶
+
+<pb:KR5a0224_SJB_006-040182b>
+<img:image/040182b_1.bmp><img:image/040182b_2.bmp><img:image/040182b_3.bmp><img:image/040182b_4.bmp><img:image/040182b_5.bmp><img:image/040182b_6.bmp><img:image/040182b_7.bmp><img:image/040182b_8.bmp><img:image/040182b_9.bmp><img:image/040182b_10.bmp><img:image/040182b_11.bmp><img:image/040182b_12.bmp><img:image/040182b_13.bmp><img:image/040182b_14.bmp><img:image/040182b_15.bmp><img:image/040182b_16.bmp><img:image/040182b_17.bmp><img:image/040182b_18.bmp><img:image/040182b_19.bmp><img:image/040182b_20.bmp><img:image/040182b_21.bmp><img:image/040182b_22.bmp><img:image/040182b_23.bmp><img:image/040182b_24.bmp><img:image/040182b_25.bmp><img:image/040182b_26.bmp><img:image/040182b_27.bmp><img:image/040182b_28.bmp><img:image/040182b_29.bmp><img:image/040182b_30.bmp><img:image/040182b_31.bmp>　　　元始混通真經¶¶
+
+　(炁道妙極)¶¶
+
+　(機隂陽雷)¶¶
+
+　(霆號令風)¶¶
+
+　(火元真)¶¶<md:KR5a0224_HFL_006-009b>¶
+
+
 　　　玉清調元通運爕令内經¶
-　(梵景運令)¶
-¶
+　(梵景運令)¶¶
+
 　(爕興)¶
-　　　玉清隱梵風雷上經¶
-¶
-　(勑景速命)¶
-¶
-　(捷令急至)¶
-¶
-<pb:KR5a0224_HFL_006-010a>¶
-　　　大洞清靈上經¶
-¶
-　(清靈混合)¶
-¶
-　(策源亶元)¶
-¶
-¶
-　(昭明薈眏)¶
-¶
-　(朗昌灼經)¶
-<pb:KR5a0224_HFL_006-010b>¶
-¶
-　　　元始策天經¶
-¶
-　(章詔命律)¶
-¶
-　(香通行告)¶
-¶
-　(啓風雲雷)¶
-¶
-　(電雪雹雨)¶
-¶
-<pb:KR5a0224_HFL_006-011a>¶
-¶
-　(霧暗龍煞)¶
-¶
-　(伐炁飛速)¶
-¶
-¶
-¶
-　(捷開度生)¶
-¶
-　(神靈定止)¶
-<pb:KR5a0224_HFL_006-011b>¶
-¶
-¶
+　　　玉清隱梵風雷上經¶¶
+
+　(勑景速命)¶¶
+
+　(捷令急至)¶¶<md:KR5a0224_HFL_006-010a>¶
+
+<pb:KR5a0224_SJB_006-040182c>
+<img:image/040182c_1.bmp><img:image/040182c_2.bmp><img:image/040182c_3.bmp><img:image/040182c_4.bmp><img:image/040182c_5.bmp><img:image/040182c_6.bmp><img:image/040182c_7.bmp><img:image/040182c_8.bmp><img:image/040182c_9.bmp><img:image/040182c_10.bmp><img:image/040182c_11.bmp><img:image/040182c_12.bmp><img:image/040182c_13.bmp><img:image/040182c_14.bmp><img:image/040182c_15.bmp><img:image/040182c_16.bmp><img:image/040182c_17.bmp><img:image/040182c_18.bmp><img:image/040182c_19.bmp><img:image/040182c_20.bmp><img:image/040182c_21.bmp><img:image/040182c_22.bmp><img:image/040182c_23.bmp><img:image/040182c_24.bmp><img:image/040182c_25.bmp><img:image/040182c_26.bmp><img:image/040182c_27.bmp><img:image/040182c_28.bmp><img:image/040182c_29.bmp><img:image/040182c_30.bmp><img:image/040182c_31.bmp><img:image/040182c_32.bmp>　　　大洞清靈上經¶¶
+
+　(清靈混合)¶¶
+
+　(策源亶元)¶¶¶
+
+
+　(昭明薈眏)¶¶
+
+　(朗昌灼經)¶<md:KR5a0224_HFL_006-010b>¶¶
+
+
+　　　元始策天經¶¶
+
+　(章詔命律)¶¶
+
+　(香通行告)¶¶
+
+　(啓風雲雷)¶¶
+
+　(電雪雹雨)¶¶<md:KR5a0224_HFL_006-011a>¶¶
+
+<pb:KR5a0224_SJB_006-040183a>
+<img:image/040183a_1.bmp><img:image/040183a_2.bmp><img:image/040183a_3.bmp><img:image/040183a_4.bmp><img:image/040183a_5.bmp><img:image/040183a_6.bmp><img:image/040183a_7.bmp><img:image/040183a_8.bmp><img:image/040183a_9.bmp><img:image/040183a_10.bmp><img:image/040183a_11.bmp><img:image/040183a_12.bmp><img:image/040183a_13.bmp><img:image/040183a_14.bmp><img:image/040183a_15.bmp><img:image/040183a_16.bmp><img:image/040183a_17.bmp><img:image/040183a_18.bmp><img:image/040183a_19.bmp><img:image/040183a_20.bmp><img:image/040183a_21.bmp><img:image/040183a_22.bmp><img:image/040183a_23.bmp><img:image/040183a_24.bmp><img:image/040183a_25.bmp><img:image/040183a_26.bmp><img:image/040183a_27.bmp><img:image/040183a_28.bmp>
+　(霧暗龍煞)¶¶
+
+　(伐炁飛速)¶¶¶¶
+
+
+
+　(捷開度生)¶¶
+
+　(神靈定止)¶<md:KR5a0224_HFL_006-011b>¶¶¶
+
+
+
 　(安鎮)¶
-　　　上清敕霆烈雷上經¶
-¶
-　(勑烈速行)¶
-¶
-　(元通)¶
-¶
+　　　上清敕霆烈雷上經¶¶
+
+　(勑烈速行)¶¶
+
+　(元通)¶¶
+
 　　　清微元靈妙經¶
-　(樞靈運混)¶
-¶
-<pb:KR5a0224_HFL_006-012a>¶
-¶
-　(天炁合元)¶
-¶
-　(統會萬神)¶
-¶
-　　　清微雷霆玄經¶
-¶
-　(清微洪朗)¶
-¶
-　(玄運雷霆)¶
-<pb:KR5a0224_HFL_006-012b>¶
-¶
-　(隂陽炁合)¶
-¶
-　(洞煥薈靈)¶
-¶
-¶
-¶
-¶
-¶
-¶
+　(樞靈運混)¶¶<md:KR5a0224_HFL_006-012a>¶¶
+
+<pb:KR5a0224_SJB_006-040183b>
+<img:image/040183b_1.bmp><img:image/040183b_2.bmp><img:image/040183b_3.bmp><img:image/040183b_4.bmp><img:image/040183b_5.bmp><img:image/040183b_6.bmp><img:image/040183b_7.bmp><img:image/040183b_8.bmp><img:image/040183b_9.bmp><img:image/040183b_10.bmp><img:image/040183b_11.bmp><img:image/040183b_12.bmp><img:image/040183b_13.bmp><img:image/040183b_14.bmp><img:image/040183b_15.bmp><img:image/040183b_16.bmp><img:image/040183b_17.bmp><img:image/040183b_18.bmp><img:image/040183b_19.bmp><img:image/040183b_20.bmp><img:image/040183b_21.bmp><img:image/040183b_22.bmp><img:image/040183b_23.bmp><img:image/040183b_24.bmp>
+　(天炁合元)¶¶
+
+　(統會萬神)¶¶
+
+　　　清微雷霆玄經¶¶
+
+　(清微洪朗)¶¶
+
+　(玄運雷霆)¶<md:KR5a0224_HFL_006-012b>¶¶
+
+
+　(隂陽炁合)¶¶
+
+　(洞煥薈靈)¶¶¶¶¶¶¶
+
+
+
+
+
+
 清微元降大法卷之六¶
+

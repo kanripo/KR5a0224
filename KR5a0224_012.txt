@@ -1,263 +1,259 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:42:34.719104
+# -*- mode: mandoku-view -*-
 #+TITLE: 清微元降大法
-#+PROPERTY: DZID  DZ0223
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—513 二十五卷 洞真部方法類
+#+DATE: 2015-08-28 23:42:38
+#+PROPERTY:  LASTPB <PB KR5a0224_SJB_025-040273c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0224_SJB_012-040208b>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0224_HFL_011-013b>
 #+PROPERTY: JUAN 12
-#+PROPERTY: ID KR5a0224
-<pb:KR5a0224_HFL_012-001a>¶
+<md:KR5a0224_HFL_012-001a>¶<pb:KR5a0224_SJB_012-040208c><img:image/040208c_1.bmp><img:image/040208c_2.bmp><img:image/040208c_3.bmp><img:image/040208c_4.bmp><img:image/040208c_5.bmp><img:image/040208c_6.bmp><img:image/040208c_7.bmp><img:image/040208c_8.bmp><img:image/040208c_9.bmp><img:image/040208c_10.bmp><img:image/040208c_11.bmp><img:image/040208c_12.bmp><img:image/040208c_13.bmp><img:image/040208c_14.bmp><img:image/040208c_15.bmp><img:image/040208c_16.bmp><img:image/040208c_17.bmp><img:image/040208c_18.bmp>
 清微元降大法卷之十二巨二¶
-　　　混洞大劫始青天經¶
-¶
-　(清涇洪浣)¶
-¶
-¶
-　(潢渺漠靈)¶
-¶
-　(滸洇沌沈)¶
-¶
-<pb:KR5a0224_HFL_012-001b>¶
-　　　又¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
+　　　混洞大劫始青天經¶¶
+
+　(清涇洪浣)¶¶¶
+
+
+　(潢渺漠靈)¶¶
+
+　(滸洇沌沈)¶¶<md:KR5a0224_HFL_012-001b>¶
+
+
+　　　又¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
 　　　混洞大劫始祖天經¶
-　(祖劫神融)¶
-¶
-<pb:KR5a0224_HFL_012-002a>¶
-¶
-　(靈源汰興)¶
-¶
-　(涺濔恊英)¶
-¶
-　　　又¶
-¶
-¶
-¶
-¶
-<pb:KR5a0224_HFL_012-002b>¶
-¶
-¶
-　　　元始符命大道真經¶
-¶
-　(宏緯玄冲)¶
-¶
-¶
-　(妙道超靈)¶
-¶
-　(烈泓經歳)¶
-¶
-<pb:KR5a0224_HFL_012-003a>¶
-¶
+　(祖劫神融)¶¶<md:KR5a0224_HFL_012-002a>¶¶
+
+<pb:KR5a0224_SJB_012-040209a>
+<img:image/040209a_1.bmp><img:image/040209a_2.bmp><img:image/040209a_3.bmp><img:image/040209a_4.bmp><img:image/040209a_5.bmp><img:image/040209a_6.bmp><img:image/040209a_7.bmp><img:image/040209a_8.bmp><img:image/040209a_9.bmp><img:image/040209a_10.bmp><img:image/040209a_11.bmp><img:image/040209a_12.bmp><img:image/040209a_13.bmp><img:image/040209a_14.bmp><img:image/040209a_15.bmp><img:image/040209a_16.bmp><img:image/040209a_17.bmp><img:image/040209a_18.bmp><img:image/040209a_19.bmp><img:image/040209a_20.bmp><img:image/040209a_21.bmp><img:image/040209a_22.bmp>
+　(靈源汰興)¶¶
+
+　(涺濔恊英)¶¶
+
+　　　又¶¶¶¶¶<md:KR5a0224_HFL_012-002b>¶¶¶
+
+
+
+
+
+
+
+　　　元始符命大道真經¶¶
+
+　(宏緯玄冲)¶¶¶
+
+
+　(妙道超靈)¶¶
+
+　(烈泓經歳)¶¶<md:KR5a0224_HFL_012-003a>¶¶
+
+<pb:KR5a0224_SJB_012-040209b>
+<img:image/040209b_1.bmp><img:image/040209b_2.bmp><img:image/040209b_3.bmp><img:image/040209b_4.bmp><img:image/040209b_5.bmp><img:image/040209b_6.bmp><img:image/040209b_7.bmp><img:image/040209b_8.bmp><img:image/040209b_9.bmp><img:image/040209b_10.bmp><img:image/040209b_11.bmp><img:image/040209b_12.bmp><img:image/040209b_13.bmp><img:image/040209b_14.bmp><img:image/040209b_15.bmp><img:image/040209b_16.bmp><img:image/040209b_17.bmp><img:image/040209b_18.bmp><img:image/040209b_19.bmp><img:image/040209b_20.bmp><img:image/040209b_21.bmp><img:image/040209b_22.bmp><img:image/040209b_23.bmp><img:image/040209b_24.bmp><img:image/040209b_25.bmp><img:image/040209b_26.bmp>
 　(陽宗召行)¶
-　　　梵天真道¶
-¶
-　(梵)¶
-¶
-　(緯華天杰)¶
-¶
-　(經梵始飛)¶
-¶
-<pb:KR5a0224_HFL_012-003b>¶
-¶
-　(靈緫轄萬)¶
-¶
+　　　梵天真道¶¶
+
+　(梵)¶¶
+
+　(緯華天杰)¶¶
+
+　(經梵始飛)¶¶<md:KR5a0224_HFL_012-003b>¶¶
+
+
+
+　(靈緫轄萬)¶¶
+
 　(神光茂靈)¶
-　右命梵炁萬真¶
-¶
+　右命梵炁萬真¶¶
+
 　　　清炁天經¶
-　(清)¶
-¶
-　(陽明道烈)¶
-¶
-<pb:KR5a0224_HFL_012-004a>¶
-¶
-　(俊興祥空)¶
-¶
+　(清)¶¶
+
+　(陽明道烈)¶¶<md:KR5a0224_HFL_012-004a>¶¶
+
+<pb:KR5a0224_SJB_012-040209c>
+<img:image/040209c_1.bmp><img:image/040209c_2.bmp><img:image/040209c_3.bmp><img:image/040209c_4.bmp><img:image/040209c_5.bmp><img:image/040209c_6.bmp><img:image/040209c_7.bmp><img:image/040209c_8.bmp><img:image/040209c_9.bmp><img:image/040209c_10.bmp><img:image/040209c_11.bmp><img:image/040209c_12.bmp><img:image/040209c_13.bmp><img:image/040209c_14.bmp><img:image/040209c_15.bmp><img:image/040209c_16.bmp><img:image/040209c_17.bmp><img:image/040209c_18.bmp><img:image/040209c_19.bmp><img:image/040209c_20.bmp><img:image/040209c_21.bmp>
+　(俊興祥空)¶¶
+
 　右命清炁萬真¶
-　　　九霄合章¶
-¶
-　(萬神宗依)¶
-¶
+　　　九霄合章¶¶
+
+　(萬神宗依)¶¶
+
 　右命九霄萬神¶
-　　　上清通玄經(一名景/炁洞章)¶
-<pb:KR5a0224_HFL_012-004b>¶
-¶
-　(景)¶
-¶
+　　　上清通玄經(一名景/炁洞章)¶<md:KR5a0224_HFL_012-004b>¶¶
+
+
+　(景)¶¶
+
 　(敕命混軾)¶
 　右召三界十方¶
 　　　紫宸玄經¶
-　(紫伸清緩)¶
-¶
-　(景茂神朝)¶
-¶
-<pb:KR5a0224_HFL_012-005a>¶
-¶
-　(横衝洪試)¶
-¶
+　(紫伸清緩)¶¶
+
+　(景茂神朝)¶¶<md:KR5a0224_HFL_012-005a>¶¶
+
+<pb:KR5a0224_SJB_012-040210a>
+<img:image/040210a_1.bmp><img:image/040210a_2.bmp><img:image/040210a_3.bmp><img:image/040210a_4.bmp><img:image/040210a_5.bmp><img:image/040210a_6.bmp><img:image/040210a_7.bmp><img:image/040210a_8.bmp><img:image/040210a_9.bmp><img:image/040210a_10.bmp><img:image/040210a_11.bmp><img:image/040210a_12.bmp><img:image/040210a_13.bmp><img:image/040210a_14.bmp><img:image/040210a_15.bmp><img:image/040210a_16.bmp><img:image/040210a_17.bmp><img:image/040210a_18.bmp><img:image/040210a_19.bmp><img:image/040210a_20.bmp><img:image/040210a_21.bmp><img:image/040210a_22.bmp><img:image/040210a_23.bmp><img:image/040210a_24.bmp><img:image/040210a_25.bmp><img:image/040210a_26.bmp>
+　(横衝洪試)¶¶
+
 　(蓋爍溟濛)¶
-　右召聞三界¶
-¶
-　　　降真召靈章¶
-¶
-　(完守萬炁)¶
-¶
-<pb:KR5a0224_HFL_012-005b>¶
-　(總領天仙)¶
-¶
-　　　命元丹剛天章¶
-¶
-　(紀律分命)¶
-¶
-　(符天景齊)¶
-¶
-　(宣臨)¶
-¶
+　右召聞三界¶¶
+
+　　　降真召靈章¶¶
+
+　(完守萬炁)¶¶<md:KR5a0224_HFL_012-005b>¶
+
+　(總領天仙)¶¶
+
+　　　命元丹剛天章¶¶
+
+　(紀律分命)¶¶
+
+　(符天景齊)¶¶
+
+　(宣臨)¶¶
+
 　右命天真萬神¶
-　　　清元妙樞洞章¶
-<pb:KR5a0224_HFL_012-006a>¶
-¶
-　(普召神祗)¶
-¶
+　　　清元妙樞洞章¶<md:KR5a0224_HFL_012-006a>¶¶
+<pb:KR5a0224_SJB_012-040210b>
+<img:image/040210b_1.bmp><img:image/040210b_2.bmp><img:image/040210b_3.bmp><img:image/040210b_4.bmp><img:image/040210b_5.bmp><img:image/040210b_6.bmp><img:image/040210b_7.bmp><img:image/040210b_8.bmp><img:image/040210b_9.bmp><img:image/040210b_10.bmp><img:image/040210b_11.bmp><img:image/040210b_12.bmp><img:image/040210b_13.bmp><img:image/040210b_14.bmp>
+　(普召神祗)¶¶
+
 　右召三界奉行¶
-　　　緫真玄靈普召萬神¶
-¶
-¶
-　(敷英興行)¶
-¶
-　右召三界冥空¶
-<pb:KR5a0224_HFL_012-006b>¶
-　　　拜書¶
-¶
-¶
-　(勑炁召靈)¶
-¶
-　　　　　　　(用此一字/入函内)¶
-¶
-　　　清微泓烈飛章¶
-¶
-　　　　　　　(一便宜二信三祈四速五捷六通七信/八坐九念入符詔經章書信入用○中)¶
-¶
-　　　緊急便宜¶
-<pb:KR5a0224_HFL_012-007a>¶
-¶
+　　　緫真玄靈普召萬神¶¶¶
+
+
+　(敷英興行)¶¶
+
+　右召三界冥空¶<md:KR5a0224_HFL_012-006b>¶
+　　　拜書¶¶¶
+
+
+　(勑炁召靈)¶¶
+
+　　　　　　　(用此一字/入函内)¶¶
+
+　　　清微泓烈飛章¶¶
+
+　　　　　　　(一便宜二信三祈四速五捷六通七信/八坐九念入符詔經章書信入用○中)¶¶
+
+　　　緊急便宜¶<md:KR5a0224_HFL_012-007a>¶¶
+<pb:KR5a0224_SJB_012-040210c>
+<img:image/040210c_1.bmp><img:image/040210c_2.bmp><img:image/040210c_3.bmp><img:image/040210c_4.bmp><img:image/040210c_5.bmp><img:image/040210c_6.bmp><img:image/040210c_7.bmp><img:image/040210c_8.bmp><img:image/040210c_9.bmp><img:image/040210c_10.bmp><img:image/040210c_11.bmp><img:image/040210c_12.bmp><img:image/040210c_13.bmp><img:image/040210c_14.bmp><img:image/040210c_15.bmp><img:image/040210c_16.bmp><img:image/040210c_17.bmp>
 　(完急)¶
-　　　内上霐▲▲¶
-¶
-¶
-¶
-　　　五雷攝神大篆¶
-¶
+　　　内上霐▲▲¶¶¶¶
+
+
+
+　　　五雷攝神大篆¶¶
+
 　(敕命速飛)¶
-　　　清微内篆¶
-<pb:KR5a0224_HFL_012-007b>¶
-¶
-　(混清泓涵)¶
-¶
-　(洪淵洞沌)¶
-¶
-¶
-¶
-　(洸凝)¶
-¶
+　　　清微内篆¶<md:KR5a0224_HFL_012-007b>¶¶
+
+
+　(混清泓涵)¶¶
+
+　(洪淵洞沌)¶¶¶¶
+
+
+
+　(洸凝)¶¶
+
 　右妙用尊臨三界無所不通批用單書大¶
-　有感應¶
-<pb:KR5a0224_HFL_012-008a>¶
-　　　紫微元和保天洞章¶
-¶
-　(豐靈阜)¶
-¶
-　　　三皇真文篆¶
-¶
-　(風霆雲雷)¶
-¶
-　(電雹霧雨)¶
-¶
-<pb:KR5a0224_HFL_012-008b>¶
-¶
-　(雷)¶
-¶
-　(合明天帝)¶
-¶
-¶
-¶
+　有感應¶<md:KR5a0224_HFL_012-008a>¶
+<pb:KR5a0224_SJB_012-040211a>
+<img:image/040211a_1.bmp><img:image/040211a_2.bmp><img:image/040211a_3.bmp><img:image/040211a_4.bmp><img:image/040211a_5.bmp><img:image/040211a_6.bmp><img:image/040211a_7.bmp><img:image/040211a_8.bmp><img:image/040211a_9.bmp><img:image/040211a_10.bmp><img:image/040211a_11.bmp><img:image/040211a_12.bmp><img:image/040211a_13.bmp><img:image/040211a_14.bmp><img:image/040211a_15.bmp><img:image/040211a_16.bmp><img:image/040211a_17.bmp><img:image/040211a_18.bmp>　　　紫微元和保天洞章¶¶
+
+　(豐靈阜)¶¶
+
+　　　三皇真文篆¶¶
+
+　(風霆雲雷)¶¶
+
+　(電雹霧雨)¶¶<md:KR5a0224_HFL_012-008b>¶¶
+
+
+
+　(雷)¶¶
+
+　(合明天帝)¶¶¶¶
+
+
+
 　(日)¶
-　　　混洞大劫運元寳章¶
-¶
-¶
-<pb:KR5a0224_HFL_012-009a>¶
-¶
-¶
-　　　清微妙道香符¶
-¶
+　　　混洞大劫運元寳章¶¶¶<md:KR5a0224_HFL_012-009a>¶¶¶
+
+
+<pb:KR5a0224_SJB_012-040211b>
+<img:image/040211b_1.bmp><img:image/040211b_2.bmp><img:image/040211b_3.bmp><img:image/040211b_4.bmp><img:image/040211b_5.bmp><img:image/040211b_6.bmp><img:image/040211b_7.bmp><img:image/040211b_8.bmp><img:image/040211b_9.bmp><img:image/040211b_10.bmp><img:image/040211b_11.bmp><img:image/040211b_12.bmp>
+
+　　　清微妙道香符¶¶
+
 　(一二三)¶
-　　　啓請安奉香符¶
-¶
-¶
+　　　啓請安奉香符¶¶¶
+
+
 　右香啓請雷祖¶
-　　　清微會雷真香符¶
-<pb:KR5a0224_HFL_012-009b>¶
-¶
+　　　清微會雷真香符¶<md:KR5a0224_HFL_012-009b>¶¶
+
+
 　(一二三)¶
-　　　啓請安奉符¶
-¶
-¶
+　　　啓請安奉符¶¶¶
+
+
 　右香召集雷霆立降¶
-　　　清微皇明攝景集仙流演玉章¶
-¶
-　(保元運)¶
-¶
-<pb:KR5a0224_HFL_012-010a>¶
-　　　啓請安奉祈願符¶
-¶
-¶
-¶
+　　　清微皇明攝景集仙流演玉章¶¶
+
+　(保元運)¶¶<md:KR5a0224_HFL_012-010a>¶
+
+<pb:KR5a0224_SJB_012-040211c>
+<img:image/040211c_1.bmp><img:image/040211c_2.bmp><img:image/040211c_3.bmp><img:image/040211c_4.bmp><img:image/040211c_5.bmp><img:image/040211c_6.bmp><img:image/040211c_7.bmp><img:image/040211c_8.bmp><img:image/040211c_9.bmp><img:image/040211c_10.bmp><img:image/040211c_11.bmp><img:image/040211c_12.bmp><img:image/040211c_13.bmp><img:image/040211c_14.bmp>　　　啓請安奉祈願符¶¶¶¶
+
+
+
 　右符乃玉晨道君在紫微宫召集嗣師說¶
 　諸玄旨之章今用爲香符¶
-　　　清壇安鎮解穢符¶
-¶
-¶
-¶
-<pb:KR5a0224_HFL_012-010b>¶
-　　　元始一炁經¶
-¶
+　　　清壇安鎮解穢符¶¶¶¶<md:KR5a0224_HFL_012-010b>¶
+
+
+
+
+　　　元始一炁經¶¶
+
 　(始元玄一)¶
 　右治病催生吞服或存字爲丹飛降立雁¶
-　　　元始祖炁玄經¶
-¶
-　(元始祖炁)¶
-¶
-　(淸混玄明)¶
-¶
-<pb:KR5a0224_HFL_012-011a>¶
-　　　又¶
-¶
-　(元始祖炁)¶
-¶
-　(淸混玄明)¶
-¶
-　　　又¶
-¶
-　(元始祖炁)¶
-¶
-<pb:KR5a0224_HFL_012-011b>¶
-　(淸混玄明)¶
-¶
-　　　又¶
-¶
-　(元始祖炁)¶
-¶
-　(淸混玄明)¶
-¶
-¶
-清微元降大法巷之十二¶
-¶
-¶
+　　　元始祖炁玄經¶¶
+
+　(元始祖炁)¶¶
+
+　(淸混玄明)¶¶<md:KR5a0224_HFL_012-011a>¶
+
+<pb:KR5a0224_SJB_012-040212a>
+<img:image/040212a_1.bmp><img:image/040212a_2.bmp><img:image/040212a_3.bmp><img:image/040212a_4.bmp><img:image/040212a_5.bmp><img:image/040212a_6.bmp><img:image/040212a_7.bmp><img:image/040212a_8.bmp><img:image/040212a_9.bmp><img:image/040212a_10.bmp><img:image/040212a_11.bmp><img:image/040212a_12.bmp><img:image/040212a_13.bmp><img:image/040212a_14.bmp><img:image/040212a_15.bmp><img:image/040212a_16.bmp><img:image/040212a_17.bmp><img:image/040212a_18.bmp><img:image/040212a_19.bmp><img:image/040212a_20.bmp><img:image/040212a_21.bmp><img:image/040212a_22.bmp><img:image/040212a_23.bmp><img:image/040212a_24.bmp>　　　又¶¶
+
+　(元始祖炁)¶¶
+
+　(淸混玄明)¶¶
+
+　　　又¶¶
+
+　(元始祖炁)¶¶<md:KR5a0224_HFL_012-011b>¶
+
+　(淸混玄明)¶¶
+
+　　　又¶¶
+
+　(元始祖炁)¶¶
+
+　(淸混玄明)¶¶¶
+
+
+清微元降大法巷之十二¶¶¶
+
+
+
